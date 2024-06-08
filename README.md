@@ -10,7 +10,7 @@ This is a simple Brick Breaker game built with React and Tailwind CSS. The game 
 
 ## Video
 
-[Video](https://github.com/abolfazlbzgh/game-2048/raw/main/video.mp4)
+[Video](https://github.com/abolfazlbzgh/brick-breaker-game/raw/main/video.mp4)
 
 ## Features
 
