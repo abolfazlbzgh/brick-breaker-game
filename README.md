@@ -1,6 +1,6 @@
 # Brick Breaker Game
 
-This is a simple Brick Breaker game built with React and Tailwind CSS. The game features a paddle that the player can move horizontally to keep the ball from falling out of the bottom of the screen. The goal is to break all the bricks on the screen with the ball.
+This is a simple Brick Breaker game built with **React** and **Tailwind CSS**. The game features a paddle that the player can move horizontally to keep the ball from falling out of the bottom of the screen. The goal is to break all the bricks on the screen with the ball.
 
 ## Screenshots
 
